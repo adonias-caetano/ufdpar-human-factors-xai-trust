@@ -1,5 +1,5 @@
 
- # Human factors influencing mental health professionals' trust in an AI-based system for suicide prevention
+ # Effect of Explainable Artificial Intelligence on Trust of Mental Health Professionals in an AI-based System for Suicide Prevention
 
 <p align="center">
 This repository provides codes of the Boamente prototype, questionnaires regarding the Level of Trust, and quality of explanations provided by LIME. 
@@ -55,7 +55,7 @@ In this project, two prototypes of Boamente were developed using <a href="https:
 
 ## 🤖 Access our article in Review
 
-Paper submitted to <a href="https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies"> <strong>International Journal of Human-Computer Studies</strong></a>
+Paper submitted to <a href="https://ieeeaccess.ieee.org/"> <strong>IEEE Access</strong></a>
 
 ### [Paper Link]() 
 
